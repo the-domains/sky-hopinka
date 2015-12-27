@@ -1,0 +1,28 @@
+name: sky hopinka
+favicon: null
+layout_spectrum: 0.4529564983677119
+typography_spectrum: 0.6382535765878856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7704007932916284
+  lightness: 0.43661730410531163
+  saturation: 0.48052373994141817
+  rhythmicContrast: 0.5636861682869494
+purpose: []
